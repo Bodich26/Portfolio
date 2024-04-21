@@ -1,0 +1,37 @@
+[
+  {
+    "icons": "./src/assets/img/lamp.svg",
+    "span": "Luminaire",
+    "href": "https://github.com/Bodich26/Luminaire",
+    "name": "go to GitHub",
+    "id": "1"
+  },
+  {
+    "icons": "./src/assets/img/detailing.svg",
+    "span": "Detailing",
+    "href": "https://github.com/Bodich26/Detailing",
+    "name": "go to GitHub",
+    "id": "2"
+  },
+  {
+    "icons": "./src/assets/img/travel.svg",
+    "span": "Explore",
+    "href": "https://github.com/Bodich26/Detailing",
+    "name": "during...",
+    "id": "3"
+  },
+  {
+    "icons": "./src/assets/img/hanger.svg",
+    "span": "Nike",
+    "href": "https://github.com/Bodich26/Detailing",
+    "name": "during...",
+    "id": "4"
+  },
+  {
+    "icons": "./src/assets/img/metro.svg",
+    "span": "Metro",
+    "href": "https://github.com/Bodich26/Detailing",
+    "name": "during...",
+    "id": "5"
+  }
+]

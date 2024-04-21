@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Fishing",
+    "img": "./../src/assets/img/Hobbies/fishing.svg",
+    "id": "1"
+  },
+  {
+    "title": "Rest",
+    "img": "./../src/assets/img/Hobbies/rest.svg",
+    "id": "2"
+  },
+  {
+    "title": "Guitar",
+    "img": "./../src/assets/img/Hobbies/music.svg",
+    "id": "3"
+  },
+  {
+    "title": "Design",
+    "img": "./../src/assets/img/Hobbies/palette.svg",
+    "id": "4"
+  },
+  {
+    "title": "Computers",
+    "img": "./../src/assets/img/Hobbies/cpu.svg",
+    "id": "5"
+  },
+  {
+    "title": "Games",
+    "img": "./../src/assets/img/Hobbies/games.svg",
+    "id": "6"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Html",
+    "img": "./../src/assets/img/IconSkills/html.svg",
+    "id": "1"
+  },
+  {
+    "title": "Css",
+    "img": "./../src/assets/img/IconSkills/Css.svg",
+    "id": "2"
+  },
+  {
+    "title": "Scss",
+    "img": "./../src/assets/img/IconSkills/Scss.svg",
+    "id": "3"
+  },
+  {
+    "title": "Js",
+    "img": "./../src/assets/img/IconSkills/Js.svg",
+    "id": "4"
+  },
+  {
+    "title": "React",
+    "img": "./../src/assets/img/IconSkills/React.svg",
+    "id": "5"
+  },
+  {
+    "title": "Redux",
+    "img": "./../src/assets/img/IconSkills/Redux.svg",
+    "id": "6"
+  },
+  {
+    "title": "Query",
+    "img": "./../src/assets/img/IconSkills/react-query.svg",
+    "id": "7"
+  },
+  {
+    "title": "Tailwind",
+    "img": "./../src/assets/img/IconSkills/tailwindcss.svg",
+    "id": "8"
+  },
+  {
+    "title": "Next",
+    "img": "./../src/assets/img/IconSkills/next.svg",
+    "id": "9"
+  },
+  {
+    "title": "Ts",
+    "img": "./../src/assets/img/IconSkills/Ts.svg",
+    "id": "10"
+  },
+  {
+    "title": "Git",
+    "img": "./../src/assets/img/IconSkills/Git.svg",
+    "id": "11"
+  }
+]
